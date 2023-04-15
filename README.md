@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1200/1*rWG1PDZGpDoWcOb1Z7LhYg.jpeg)]
+![MasterHead](https://miro.medium.com/max/1200/1*rWG1PDZGpDoWcOb1Z7LhYg.jpeg)
 <h1 align="center">Hello 👋, I'm Yash Raj</h1>
 <h3 align="center">A Tech enthusiast 👨‍💻 & A passionate Developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif">
