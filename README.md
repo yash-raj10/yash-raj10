@@ -1,7 +1,6 @@
 <h1 align="center">Hello Everyone, Yash here  </h1>
 
-- Technology & Programming Enthusiast / Frontend Dev-Exploring Different Technologies
-- I have  Expirence in Frontend Dev and Currently Learning **Flutter**
+- Technology & Programming Enthusiast
 - Contact me here :- **yashraj.se10@gmail.com**
 
 <h3 align="left">Languages and Tools I have worked with:</h3>
