@@ -1,6 +1,7 @@
 <h1 align="center">Hello Everyone, Yash here  </h1>
 
-- Technology & Programming Enthusiast
+- Technology & Programming Enthusias
+- Read my Technical Blogs at (Hashnode) - https://yash-raj.hashnode.dev , (Dev.to) - https://dev.to/yashraj10
 - Contact me here :- **yashraj.se10@gmail.com**
 
 <h3 align="left">Languages and Tools I have worked with:</h3>
